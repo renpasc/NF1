@@ -77,11 +77,11 @@ Output CSVs are written to the R working directory. The Monaco script downloads 
 
 ## References
 
-Assunto, A., et al. (2019). [Add full citation.]
+Assunto, A., Ferrara, U., De Luca, A., Pivonello, C., Lombardo, L., Piscitelli, A., Tortora, C., Pinna, V., Daniele, P., Pivonello, R., Russo, M. G., Limongelli, G., Colao, A., Tartaglia, M., Strisciuglio, P., & Melis, D. (2019). Isoform-specific NF1 mRNA levels correlate with disease severity in Neurofibromatosis type 1. Orphanet Journal of Rare Diseases, 14(1), 261. https://doi.org/10.1186/s13023-019-1223-1
 
 GTEx Consortium. (2017). Genetic effects on gene expression across human tissues. *Nature, 550*(7675), 204–213. https://doi.org/10.1038/nature24277
 
-Monaco, G., Lee, B., Xu, W., Mustafah, S., Hwang, Y. Y., et al. (2019). RNA-seq signatures normalized by mRNA abundance allow absolute deconvolution of human immune cell types. *Cell Reports*. [Add volume, pages and DOI.]
+Monaco, G., Lee, B., Xu, W., Mustafah, S., Hwang, Y. Y., Carré, C., Burdin, N., Visan, L., Ceccarelli, M., Poidinger, M., Zippelius, A., Pedro De Magalhães, J., & Larbi, A. (2019). RNA-Seq Signatures Normalized by mRNA Abundance Allow Absolute Deconvolution of Human Immune Cell Types. Cell Reports, 26(6), 1627-1640.e7. https://doi.org/10.1016/j.celrep.2019.01.041
 
 Wilks, C., Gaddipati, P., Nellore, A., & Langmead, B. (2018). Snaptron: Querying splicing patterns across tens of thousands of RNA-seq samples. *Bioinformatics, 34*(1), 114–116. https://doi.org/10.1093/bioinformatics/btx547
 
